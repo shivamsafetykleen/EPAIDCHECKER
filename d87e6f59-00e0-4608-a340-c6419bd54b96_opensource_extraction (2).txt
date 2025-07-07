@@ -1,0 +1,105 @@
+Sheet: Sheet1
+[147 rows x 5 columns]
+Column names: |State|Generator Status|Federal EPA ID Requirement|State EPA ID Requirement|Comments
+0|AL|VSQG|NO (Yes for Oil generators over 300g )|NO|For V generator, CESQG allowed as US EPA ID
+1|AL|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+2|AL|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+3|AR|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+4|AR|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+5|AR|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+6|AZ|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+7|AZ|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+8|AZ|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+9|CA|VSQG|YES (CAL or CAC used as US EPA ID)|NO|FOR V GENERATORS: State issued Federal replacement CAL or CAC typically used as EPA ID, CESQG is not permitted as an EPA ID, EXEMPT or NONEREQUIRED allowed in limited instances
+10|CA|SQG|YES|NO|FOR V GENERATORS: State issued Federal replacement CAL or CAC typically used as EPA ID, CESQG is not permitted as an EPA ID, EXEMPT or NONEREQUIRED allowed in limited instances
+11|CA|LQG|YES|NO|FOR V GENERATORS: State issued Federal replacement CAL or CAC typically used as EPA ID, CESQG is not permitted as an EPA ID, EXEMPT or NONEREQUIRED allowed in limited instances
+12|CO|VSQG|NO (Yes for generators of F001, F002, F004 and/or F005)|NO|For V generator, CESQG allowed as US EPA ID
+13|CO|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+14|CO|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+15|CT|VSQG|CTCESQG99999|NO|Only CTCESQG99999 is allowed for V generator as a generic EPA ID
+16|CT|SQG|YES|NO|Only CTCESQG99999 is allowed for V generator as a generic EPA ID
+17|CT|LQG|YES|NO|Only CTCESQG99999 is allowed for V generator as a generic EPA ID
+18|DC|VSQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+19|DC|SQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+20|DC|LQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+21|DE|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+22|DE|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+23|DE|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+24|FL|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+25|FL|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+26|FL|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+27|GA|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+28|GA|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+29|GA|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+30|IA|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+31|IA|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+32|IA|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+33|ID|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+34|ID|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+35|ID|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+36|IL|VSQG|NO|YES IF MANIFESTED|For V generator, CESQG allowed as US EPA ID
+37|IL|SQG|YES|YES|For V generator, CESQG allowed as US EPA ID
+38|IL|LQG|YES|YES|For V generator, CESQG allowed as US EPA ID
+39|IN|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+40|IN|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+41|IN|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+42|KS|VSQG|0-25 KG - NO|NO|For V generator, CESQG allowed as US EPA ID
+43|KS|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+44|KS|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+45|KY|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+46|KY|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+47|KY|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+48|LA|VSQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+49|LA|SQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+... 47 rows skipped ...
+97|NY|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+98|NY|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+99|OH|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+100|OH|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+101|OH|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+102|OK|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+103|OK|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+104|OK|LQG|YES|YES|For V generator, CESQG allowed as US EPA ID
+105|OR|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+106|OR|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+107|OR|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+108|PA|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+109|PA|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+110|PA|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+111|RI|VSQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+112|RI|SQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+113|RI|LQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+114|SC|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+115|SC|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+116|SC|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+117|SD|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+118|SD|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+119|SD|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+120|TN|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+121|TN|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+122|TN|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+123|TX|VSQG|TXCESQG or a Fed Number|NO (CESQG or State number are acceptable)|Generic EPA ID for V generator can only be TXCESQG 
+124|TX|SQG|YES|YES|Generic EPA ID for V generator can only be TXCESQG 
+125|TX|LQG|YES|YES|Generic EPA ID for V generator can only be TXCESQG 
+126|UT|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+127|UT|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+128|UT|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+129|VA|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+130|VA|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+131|VA|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+132|VT|VSQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+133|VT|SQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+134|VT|LQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+135|WA|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+136|WA|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+137|WA|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+138|WI|VSQG|NO (YES IF THE GEN CHOOSES TO MANIFEST)|NO|For V generator, CESQG allowed as US EPA ID
+139|WI|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+140|WI|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+141|WV|VSQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+142|WV|SQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+143|WV|LQG|YES|NO|CESQG not permitted as EPA ID with gen status of V
+144|WY|VSQG|NO|NO|For V generator, CESQG allowed as US EPA ID
+145|WY|SQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+146|WY|LQG|YES|NO|For V generator, CESQG allowed as US EPA ID
+
